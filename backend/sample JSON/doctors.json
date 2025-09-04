@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Dr. Rajesh Sharma",
+    "speciality": "Cardiologist",
+    "location": "C-Scheme, Jaipur",
+    "timings": "10:00 AM - 1:00 PM",
+    "phone": "+91-9876543101"
+  },
+  {
+    "name": "Dr. Neha Gupta",
+    "speciality": "Dermatologist",
+    "location": "Malviya Nagar, Jaipur",
+    "timings": "4:00 PM - 8:00 PM",
+    "phone": "+91-9876543102"
+  },
+  {
+    "name": "Dr. Amit Mehta",
+    "speciality": "Neurologist",
+    "location": "Vaishali Nagar, Jaipur",
+    "timings": "9:00 AM - 12:00 PM",
+    "phone": "+91-9876543103"
+  },
+  {
+    "name": "Dr. Pooja Agarwal",
+    "speciality": "Gynecologist",
+    "location": "Mansarovar, Jaipur",
+    "timings": "5:00 PM - 8:00 PM",
+    "phone": "+91-9876543104"
+  },
+  {
+    "name": "Dr. Suresh Yadav",
+    "speciality": "Orthopedic Surgeon",
+    "location": "Bani Park, Jaipur",
+    "timings": "11:00 AM - 2:00 PM",
+    "phone": "+91-9876543105"
+  },
+  {
+    "name": "Dr. Kavita Choudhary",
+    "speciality": "Pediatrician",
+    "location": "Jagatpura, Jaipur",
+    "timings": "10:00 AM - 1:00 PM",
+    "phone": "+91-9876543106"
+  },
+  {
+    "name": "Dr. Anil Jain",
+    "speciality": "ENT Specialist",
+    "location": "Sodala, Jaipur",
+    "timings": "6:00 PM - 9:00 PM",
+    "phone": "+91-9876543107"
+  },
+  {
+    "name": "Dr. Ritu Singh",
+    "speciality": "Psychiatrist",
+    "location": "Adarsh Nagar, Jaipur",
+    "timings": "9:30 AM - 12:30 PM",
+    "phone": "+91-9876543108"
+  },
+  {
+    "name": "Dr. Manish Agarwal",
+    "speciality": "Urologist",
+    "location": "Tonk Road, Jaipur",
+    "timings": "3:00 PM - 6:00 PM",
+    "phone": "+91-9876543109"
+  },
+  {
+    "name": "Dr. Shalini Joshi",
+    "speciality": "Ophthalmologist",
+    "location": "Jhotwara, Jaipur",
+    "timings": "11:00 AM - 2:00 PM",
+    "phone": "+91-9876543110"
+  },
+  {
+    "name": "Dr. Arvind Gupta",
+    "speciality": "Oncologist",
+    "location": "Pratap Nagar, Jaipur",
+    "timings": "5:00 PM - 8:00 PM",
+    "phone": "+91-9876543111"
+  },
+  {
+    "name": "Dr. Sneha Verma",
+    "speciality": "Endocrinologist",
+    "location": "Raja Park, Jaipur",
+    "timings": "10:00 AM - 1:00 PM",
+    "phone": "+91-9876543112"
+  },
+  {
+    "name": "Dr. Rakesh Jangid",
+    "speciality": "Dentist",
+    "location": "Ajmer Road, Jaipur",
+    "timings": "4:00 PM - 7:00 PM",
+    "phone": "+91-9876543113"
+  },
+  {
+    "name": "Dr. Priya Khandelwal",
+    "speciality": "Rheumatologist",
+    "location": "Bapu Nagar, Jaipur",
+    "timings": "9:00 AM - 12:00 PM",
+    "phone": "+91-9876543114"
+  },
+  {
+    "name": "Dr. Harish Kumar",
+    "speciality": "General Physician",
+    "location": "Chitrakoot, Jaipur",
+    "timings": "6:00 PM - 9:00 PM",
+    "phone": "+91-9876543115"
+  },
+  {
+    "name": "Dr. Anjali Sethi",
+    "speciality": "Nephrologist",
+    "location": "Shastri Nagar, Jaipur",
+    "timings": "10:00 AM - 1:00 PM",
+    "phone": "+91-9876543116"
+  },
+  {
+    "name": "Dr. Sunil Saxena",
+    "speciality": "Pulmonologist",
+    "location": "Civil Lines, Jaipur",
+    "timings": "3:00 PM - 6:00 PM",
+    "phone": "+91-9876543117"
+  },
+  {
+    "name": "Dr. Meera Sharma",
+    "speciality": "Nutritionist",
+    "location": "MI Road, Jaipur",
+    "timings": "11:00 AM - 2:00 PM",
+    "phone": "+91-9876543118"
+  },
+  {
+    "name": "Dr. Deepak Khurana",
+    "speciality": "Hematologist",
+    "location": "Khatipura, Jaipur",
+    "timings": "5:00 PM - 8:00 PM",
+    "phone": "+91-9876543119"
+  },
+  {
+    "name": "Dr. Radhika Tiwari",
+    "speciality": "Physiotherapist",
+    "location": "Sanganer, Jaipur",
+    "timings": "9:00 AM - 12:00 PM",
+    "phone": "+91-9876543120"
+  },
+  {
+    "name": "Dr. Nikhil Bansal",
+    "speciality": "Gastroenterologist",
+    "location": "Kalwar Road, Jaipur",
+    "timings": "6:00 PM - 9:00 PM",
+    "phone": "+91-9876543121"
+  },
+  {
+    "name": "Dr. Seema Rathore",
+    "speciality": "Allergist & Immunologist",
+    "location": "Jagatpura, Jaipur",
+    "timings": "10:00 AM - 1:00 PM",
+    "phone": "+91-9876543122"
+  },
+  {
+    "name": "Dr. Vikram Singh",
+    "speciality": "Plastic Surgeon",
+    "location": "Malviya Nagar, Jaipur",
+    "timings": "4:00 PM - 7:00 PM",
+    "phone": "+91-9876543123"
+  },
+  {
+    "name": "Dr. Anu Jain",
+    "speciality": "Diabetologist",
+    "location": "Mansarovar, Jaipur",
+    "timings": "9:00 AM - 12:00 PM",
+    "phone": "+91-9876543124"
+  },
+  {
+    "name": "Dr. Mohit Rathod",
+    "speciality": "Sports Medicine Specialist",
+    "location": "Vaishali Nagar, Jaipur",
+    "timings": "5:00 PM - 8:00 PM",
+    "phone": "+91-9876543125"
+  }
+]
